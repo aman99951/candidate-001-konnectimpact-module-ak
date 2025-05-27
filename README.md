@@ -4,7 +4,7 @@ A modern web application that transforms customer loyalty points into meaningful
 
 ## 🚀 Live Demo
 
-**Live Site**: [Your Deployment URL Here]  
+**Live Site**: [https://cerulean-tartufo-409295.netlify.app/]  
 **Repository**: [https://github.com/aman99951/candidate-001-konnectimpact-module-ak]
 
 ## 📋 Project Overview
@@ -168,7 +168,7 @@ This project fulfills all requirements for the Alatree Ventures Contract Web Dev
 **Assignment Submission**  
 - **Candidate**: [Aman Kumar]
 - **Submission Date**: [27-05-2025]
-- **Live URL**: [Your Live Site]
+- **Live URL**: [https://cerulean-tartufo-409295.netlify.app/]
 - **Repository**: [https://github.com/aman99951/candidate-001-konnectimpact-module-ak]
 
 ## 📜 License
